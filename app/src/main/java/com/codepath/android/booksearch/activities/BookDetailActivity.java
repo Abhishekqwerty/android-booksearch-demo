@@ -29,7 +29,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class BookDetailActivity extends ActionBarActivity {
+public class BookDetailActivity extends AppCompactActivity {
     private ImageView ivBookCover;
     private TextView tvTitle;
     private TextView tvAuthor;
