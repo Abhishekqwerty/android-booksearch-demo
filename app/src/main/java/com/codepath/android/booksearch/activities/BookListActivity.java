@@ -26,7 +26,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 
-public class BookListActivity extends ActionBarActivity {
+public class BookListActivity extends AppCompactActivity {
     public static final String BOOK_DETAIL_KEY = "book";
     private ListView lvBooks;
     private BookAdapter bookAdapter;
