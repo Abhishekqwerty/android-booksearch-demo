@@ -43,4 +43,4 @@ This app leverages two third-party libraries:
 
 
 
-CHANGED ONE DEPENDENCIES compile 'com.android.support:appcompat-v7:21.0.2' to
+CHANGED ONE DEPENDENCIES compile 'com.android.support:appcompat-v7:21.0.2' to compile 'com.android.support:appcompat-v7:23.3.0'
